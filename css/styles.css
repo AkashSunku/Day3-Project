@@ -6,6 +6,7 @@ body{
 h1{
   text-align: center;
   font-size: 70px;
+   font-variant: small-caps;
 color: #04009a;
 }
 h5,h6{
