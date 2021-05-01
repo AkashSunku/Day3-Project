@@ -1,0 +1,25 @@
+body{
+  background: linear-gradient(45deg,black,white,grey);
+  margin: 0;
+  padding: 0;
+}
+h1{
+  text-align: center;
+  font-size: 70px;
+color: #04009a;
+}
+h5,h6{
+  font-family: ABeeZee;
+}
+p{
+  font-family: Cabin;
+}
+h3{
+  font-family: Baloon;
+}
+.fas{
+  color: rgb(8,156,156)
+}
+.card{
+  background: linear-gradient(45deg,#f53803,#f5d020);
+}
